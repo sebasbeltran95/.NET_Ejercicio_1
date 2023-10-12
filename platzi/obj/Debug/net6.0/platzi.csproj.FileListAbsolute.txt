@@ -1,0 +1,14 @@
+D:\platzi\platzi\platzi\bin\Debug\net6.0\platzi.exe
+D:\platzi\platzi\platzi\bin\Debug\net6.0\platzi.deps.json
+D:\platzi\platzi\platzi\bin\Debug\net6.0\platzi.runtimeconfig.json
+D:\platzi\platzi\platzi\bin\Debug\net6.0\platzi.dll
+D:\platzi\platzi\platzi\bin\Debug\net6.0\platzi.pdb
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.AssemblyInfoInputs.cache
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.AssemblyInfo.cs
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.csproj.CoreCompileInputs.cache
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.dll
+D:\platzi\platzi\platzi\obj\Debug\net6.0\refint\platzi.dll
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.pdb
+D:\platzi\platzi\platzi\obj\Debug\net6.0\platzi.genruntimeconfig.cache
+D:\platzi\platzi\platzi\obj\Debug\net6.0\ref\platzi.dll
